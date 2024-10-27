@@ -1,0 +1,10 @@
+Results for /workspaces/cobra/Instances/small/kiva-10-500-5.map:
+Simulation complete.
+Results for /workspaces/cobra/Instances/small/kiva-20-500-5.map:
+Simulation complete.
+Results for /workspaces/cobra/Instances/small/kiva-30-500-5.map:
+Simulation complete.
+Results for /workspaces/cobra/Instances/small/kiva-40-500-5.map:
+Simulation complete.
+Results for /workspaces/cobra/Instances/small/kiva-50-500-5.map:
+Simulation complete.
